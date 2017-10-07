@@ -1,8 +1,10 @@
 body {
-  background-color: rgb(137, 112, 163);
+    background-color: #4947ba;
+    font-family: 'Lobster', sans-serif;
+    font-weight: 900;
 }
-
-h1{
-  font-family: helvetica;
-  color: rgb(225, 0, 0);
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
 }
